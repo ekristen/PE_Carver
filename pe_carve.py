@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # PE File Carver
 # 18 Dec 12 - Brian Baskin (@bbaskin)
 # Horrible code, I'm sure, but it works.
